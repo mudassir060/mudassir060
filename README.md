@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/Gmail-Address-red?logo=gmail&logoColor=white&color=blue" />
  </a>
  <a href="https://wa.me/+923454335400" target="_blank" rel="noopener noreferrer">
-   <img width="80%" src="https://img.shields.io/badge/Whatsapp-Number-blue?logo=whatsapp&logoColor=white&color=blue" />
+   <img src="https://img.shields.io/badge/Whatsapp-Number-blue?logo=whatsapp&logoColor=white&color=blue" />
  </a>
  
 </div>
@@ -79,6 +79,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
   <a href="https://github.com/mudassir060">
-    <img src="https://streak-stats.demolab.com/?user=mudassir060&theme=discord_old_blurple&utcOffset=8">
+    <img width="100%" src="https://streak-stats.demolab.com/?user=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
 </div>  
