@@ -63,19 +63,22 @@
 <!-------------------- Github stats ----------------------->
 ## &#x1f4c8; Github Stats
 <div align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir060&theme=discord_old_blurple">
+  <a href="https://github.com/mudassir060">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir060&theme=discord_old_blurple">
   </a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassir060&theme=discord_old_blurple">
+  <a href="https://github.com/mudassir060">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassir060&theme=discord_old_blurple">
   </a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassir060&theme=discord_old_blurple">
+  <a href="https://github.com/mudassir060">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassir060&theme=discord_old_blurple">
   </a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir060&theme=discord_old_blurple">
+  <a href="https://github.com/mudassir060">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir060&theme=discord_old_blurple">
   </a>
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
+  <a href="https://github.com/mudassir060">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
+  </a>
+  <a href="https://github.com/mudassir060">
+    <img src="https://streak-stats.demolab.com/?user=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
 </div>  
