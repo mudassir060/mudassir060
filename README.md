@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/Gmail-Address-red?logo=gmail&logoColor=white&color=blue" />
  </a>
  <a href="https://wa.me/+923454335400" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/Whatsapp-Number-blue?logo=whatsapp&logoColor=white&color=blue" />
+   <img width="80%" src="https://img.shields.io/badge/Whatsapp-Number-blue?logo=whatsapp&logoColor=white&color=blue" />
  </a>
  
 </div>
