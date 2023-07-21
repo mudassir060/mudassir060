@@ -1,5 +1,5 @@
 <!-------------------- Banner ----------------------->
-<img width="1834" alt="Make your README (13)" src="https://github.com/mudassir060/mudassir060/blob/main/cover.png">
+<img width="1834" alt="Make your README (13)" src="https://github.com/mudassir060/mudassir060/blob/main/cover1.png">
 <br/><br/>
 
 <!-------------------- Contact Badges ----------------------->
