@@ -50,7 +50,7 @@
 
 
 ![](https://img.shields.io/badge/Backend-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=627dde)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=627dde)
+![](https://img.shields.io/badge/Database-SQL Lite-informational?style=flat&logo=mysql&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Backend-Postman-informational?style=flat&logo=postman&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=627dde)
