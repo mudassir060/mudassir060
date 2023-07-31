@@ -64,21 +64,21 @@
 ## &#x1f4c8; Github Stats
 <div align="center">
   <a href="https://github.com/mudassir060">
-    <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir060&theme=discord_old_blurple">
+    <img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudassir060&theme=discord_old_blurple">
   </a>
    <a href="https://github.com/mudassir060">
-    <img width="80%" src="https://streak-stats.demolab.com/?user=mudassir060&theme=discord_old_blurple&utcOffset=8">
+    <img width="90%" src="https://streak-stats.demolab.com/?user=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
   <a href="https://github.com/mudassir060">
-    <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassir060&theme=discord_old_blurple">
+    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassir060&theme=discord_old_blurple">
   </a>
   <a href="https://github.com/mudassir060">
-    <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassir060&theme=discord_old_blurple">
+    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mudassir060&theme=discord_old_blurple">
   </a>
   <a href="https://github.com/mudassir060">
-    <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir060&theme=discord_old_blurple">
+    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mudassir060&theme=discord_old_blurple">
   </a>
   <a href="https://github.com/mudassir060">
-    <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
+    <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
 </div>  
