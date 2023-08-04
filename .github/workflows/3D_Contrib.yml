@@ -22,5 +22,5 @@ jobs:
           git config user.email mudassirmukhtar4@gmail.com
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
-          git push origin main
+          git push
 
