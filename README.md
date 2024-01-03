@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning IOS swift
 - 👯 I’m looking to collaborate on Flutter
-- 💬 Ask me about Flutter, Firebase, Stacked, Provider, Bloc, Getx
+- 💬 Ask me about Flutter, Firebase, Stacked, Provider, Bloc, Getx, IoT, Arduino
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -58,6 +58,7 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/DevOps-Github-informational?style=flat&logo=githubactions&logoColor=white&color=627dde)
 ![](https://img.shields.io/badge/Deployment-Github-informational?style=flat&logo=github&logoColor=white&color=627dde)
+![](https://img.shields.io/badge/IoT-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=627dde)
 
 
 <br/>
