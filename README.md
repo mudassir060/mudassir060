@@ -21,13 +21,17 @@
 </div>
 
 <br/>
+<a href="https://github.com/mudassir060"><img width="22%" align="right" alt="mudassir060" src="https://github-profile-trophy.vercel.app/?username=mudassir060&theme=juicyfresh&no-frame=true&no-bg=true&title=Commit&row=1&column=1" /></a>
 
 <!-------------------- introduction ----------------------->
 ### Hi there 👋 Welcome to my GitHub profile!
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning IOS swift
-- 👯 I’m looking to collaborate on Flutter
-- 💬 Ask me about Flutter, Firebase, Stacked, Provider, Bloc, Getx, IoT, Arduino
+- 🎓 Bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/)
+- 🔭 I’m currently working on `Flutter`
+- 🌱 I’m currently learning `IOS swift`
+- 👯 I’m looking to collaborate on `Flutter`
+- 💬 Ask me about `Flutter`, `Firebase`, `Stacked`, `Provider`, `Bloc`, `Getx`, `IoT`, `Arduino`
+- 🤹‍♀️ Hobbies: `Eating 🍔`, `Sleeping 💤` and `Coding 🖥️`
+
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
