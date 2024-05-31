@@ -89,3 +89,6 @@
     <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mudassir060&theme=discord_old_blurple&utcOffset=8">
   </a>
 </div>  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mudassir060&theme=omni&no-frame=true&no-bg=false&margin-w=3)
